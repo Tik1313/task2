@@ -1,0 +1,20 @@
+{
+    "title": "Hello!",
+    "Message" : "This is English",
+    "login title": "What's Your name?",
+    "forgot":"Forgot your Password?",
+    "login":"Log In",
+    "username labeltext": "Username or Email",
+    "username errortext": "can't be empty",
+    "password labeltext":"Password",
+    "password errortext":"password must have minimum 8 characters",
+    "first name":"First Name",
+    "last name":"Last Name",
+    "sign up":"Sign Up & Accept",
+    "text1":"By tapping Sign Up & Accept, you acknowledge \nthat you have read the",
+    "text2":"Privacy Policy",
+    "text3":" and agree \nto the ",
+    "text4":"Terms of Service "
+
+
+  }
